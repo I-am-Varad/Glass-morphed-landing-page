@@ -1,0 +1,18 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#header{
+    background-image: linear-gradient(#ffbb00, #ff7300);
+    height: 150px;
+    background-size: cover;
+}
+
+.heading{
+    padding: 35px;
+    margin-left: 30px;
+    color: beige;
+    font-size: 50px;
+    font-weight: bold;
+}
